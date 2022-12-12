@@ -31,7 +31,7 @@ int main()
         }
         else
         {
-            end = mid;
+            end = mid-1;
         }
     }
     result:
